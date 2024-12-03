@@ -2,8 +2,10 @@
 ## Install all necessory libraries for python:
 
 • Used SQL, Python, Tableau, and Excel for comprehensive analysis of football datasets. 
+
 • Conducted performance analysis, player profiling, and event pattern studies to uncover actionable 
 insights. 
+
 • Built interactive Tableau dashboards to visualize KPIs and support strategic decision-making. 
 
 # Download dataset from
